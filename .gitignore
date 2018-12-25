@@ -1,0 +1,20 @@
+# ignore temporary files
+.*.swp
+\#*#
+*.pyc
+*.o
+*.hi
+*.dump
+*.log
+*.rej
+*.orig
+*.patch
+*.diff
+.tags*
+
+# ignore debug files
+cmake-build-debug/
+build/
+
+# ignore ide files
+.idea/
